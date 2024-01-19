@@ -1,9 +1,8 @@
-import styles from './page.module.css'
 import XDropzone  from '@/components/XDropzone/XDropzone'
 
 export default function Home() {
   return (
-    <main className={styles.main}>
+    <main style={{margin:'0 auto'}}>
       <XDropzone />
     </main>
   )
