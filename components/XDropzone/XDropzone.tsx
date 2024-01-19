@@ -1,3 +1,4 @@
+'use client'
 /**
  * @package XDropzone
  * @description React component for file uploads using Mantine UI, Next.js 14, and Amazon AWS S3.
